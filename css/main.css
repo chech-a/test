@@ -1,3 +1,7 @@
-boby {
+body {
 	background: #eee;
+}
+
+p {
+	background: red;
 }
